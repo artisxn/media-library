@@ -16,7 +16,7 @@
     ],
 
     "require": {
-        "php": "^7.4",
+        "php": "^7.4.0",
         "ext-fileinfo": "*",
         "ext-json": "*",
         "illuminate/bus": "^7.0",
